@@ -1,0 +1,11 @@
+body {
+    /* background-color:#ffffff; */
+    background-image: linear-gradient(to right, rgb(225, 225, 255) , rgb(225, 225, 255), rgb(225, 225, 255));
+
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    font-family:'Levenim MT';
+    text-align: center;
+    font-size: 25px;
+    
+  }

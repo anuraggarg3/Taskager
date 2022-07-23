@@ -1,0 +1,10 @@
+body {
+    /* background-color: #9ef8c0; */
+    /* background-image: linear-gradient(to right, rgba(255, 0, 0, 0.285) , rgba(255, 247, 0, 0.518), rgba(255, 0, 0, 0.285)); */
+    color: rgb(0, 0, 0);
+    padding: 0px;
+    font-family:'Levenim MT';
+    text-align: center;
+    font-size: normal;
+    border-radius: 10px;
+  }

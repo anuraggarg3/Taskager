@@ -1,0 +1,32 @@
+.image{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin: 5%;
+    margin-left:10%
+}
+.p{
+    font-size: larger;
+    font-weight: 500;
+}
+.wrapper{
+    display:flex;
+    align-items:center;
+    /* border: grey solid; */
+    border-radius: 10px;
+    width:600px;
+    margin-top:2%
+}
+.mai{
+    margin-top: 5%;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+}
+.but{
+    border-radius: 10%;
+    margin-left: 50%;
+    font-size: larger;
+    font-weight: 500;
+}
